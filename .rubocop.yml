@@ -1,0 +1,11 @@
+Style/Documentation:
+  Enabled: false
+
+Style/RegexpLiteral:
+  MaxSlashes: 0
+
+Style/StringLiterals:
+  Enabled: false
+
+Style/TrailingComma:
+  EnforcedStyleForMultiline: comma
