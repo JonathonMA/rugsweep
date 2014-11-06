@@ -1,5 +1,7 @@
 # Rugsweep
 
+[![Build Status](https://travis-ci.org/JonathonMA/rugsweep.svg?branch=master)](https://travis-ci.org/JonathonMA/rugsweep)
+
 Sweeps files under the rug.
 
 ## Installation
